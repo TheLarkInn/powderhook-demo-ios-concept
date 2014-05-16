@@ -53,6 +53,7 @@
 		EDB063B419265FF0005747F1 /* arrow_right_24.png in Resources */ = {isa = PBXBuildFile; fileRef = EDB063B119265FF0005747F1 /* arrow_right_24.png */; };
 		EDB063B519265FF0005747F1 /* arrow_right_48.png in Resources */ = {isa = PBXBuildFile; fileRef = EDB063B219265FF0005747F1 /* arrow_right_48.png */; };
 		EDB063B619265FF0005747F1 /* arrow_right_64.png in Resources */ = {isa = PBXBuildFile; fileRef = EDB063B319265FF0005747F1 /* arrow_right_64.png */; };
+		EDB063B919267E8D005747F1 /* PHMUserRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = EDB063B819267E8D005747F1 /* PHMUserRecord.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -110,6 +111,8 @@
 		EDB063B119265FF0005747F1 /* arrow_right_24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arrow_right_24.png; path = "../../TWG Retina Icons/arrow_right_24.png"; sourceTree = "<group>"; };
 		EDB063B219265FF0005747F1 /* arrow_right_48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arrow_right_48.png; path = "../../TWG Retina Icons/arrow_right_48.png"; sourceTree = "<group>"; };
 		EDB063B319265FF0005747F1 /* arrow_right_64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arrow_right_64.png; path = "../../TWG Retina Icons/arrow_right_64.png"; sourceTree = "<group>"; };
+		EDB063B719267E8D005747F1 /* PHMUserRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PHMUserRecord.h; sourceTree = "<group>"; };
+		EDB063B819267E8D005747F1 /* PHMUserRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PHMUserRecord.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +180,8 @@
 				ED5E22F71924FC7400D7C475 /* PHMLoginViewController.m */,
 				ED5E22E31924ED0E00D7C475 /* PHMFirstViewController.h */,
 				ED5E22E41924ED0E00D7C475 /* PHMFirstViewController.m */,
+				EDB063B719267E8D005747F1 /* PHMUserRecord.h */,
+				EDB063B819267E8D005747F1 /* PHMUserRecord.m */,
 				ED5E22EA1924ED0E00D7C475 /* PHMSecondViewController.h */,
 				ED5E22EB1924ED0E00D7C475 /* PHMSecondViewController.m */,
 				ED5E22F91924FE9200D7C475 /* PHMThirdViewController.h */,
@@ -322,6 +327,7 @@
 				ED5E22E51924ED0E00D7C475 /* PHMFirstViewController.m in Sources */,
 				ED5E22EC1924ED0E00D7C475 /* PHMSecondViewController.m in Sources */,
 				ED5E22F81924FC7400D7C475 /* PHMLoginViewController.m in Sources */,
+				EDB063B919267E8D005747F1 /* PHMUserRecord.m in Sources */,
 				ED5E22FB1924FE9200D7C475 /* PHMThirdViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
